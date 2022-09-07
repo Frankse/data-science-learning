@@ -1,1 +1,1 @@
-# Data Science with Python Course Repository
+# Data Science Course Repository
